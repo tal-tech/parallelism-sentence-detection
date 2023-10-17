@@ -1,0 +1,2 @@
+model/rhetoric_model/Parallel_PretrainedBert_1e-05_16.pt
+model/bert_chinese_wwm_ext_pytorch/pytorch_model.bin
